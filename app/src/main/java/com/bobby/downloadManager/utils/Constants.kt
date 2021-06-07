@@ -6,4 +6,5 @@ object Constants {
     const val notificationChannelDescription = "Shows notifications whenever work events occur"
     const val notificationTitle = "Download Request Status"
     const val notificationChannelId = "work manager channel"
+    const val PERMISSIONS_REQUEST_CODE = 1
 }
