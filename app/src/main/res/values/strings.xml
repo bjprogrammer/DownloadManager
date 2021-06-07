@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Download Manager</string>
+
+    <string name="text_url">URL -</string>
+    <string name="text_url_hint">enter your url</string>
+    <string name="text_filetype">FileType -</string>
+    <string name="text_download">Download</string>
+    <string name="text_status">Status</string>
+    <string name="text_cancel">Cancel</string>
+
+    <string name="text_id_hint">enter download id</string>
 </resources>
